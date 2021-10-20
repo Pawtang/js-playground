@@ -8,4 +8,6 @@
     height: 100px;
     background-color: white;
     position: absolute;
+    transition: all 100ms;
+    transform: translate(-50px, -50px)
 }
